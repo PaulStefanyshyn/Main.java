@@ -1,0 +1,37 @@
+i: 1
+It's now bers's turn.
+droid fighterr2d2 from team bers do action
+shootert2d2 was attacked by fighterr2d2
+Now his hp is 29
+i: 2
+It's now shoot's turn.
+droid shootert2d2 from team shoot do action
+fighterr2d2 was attacked by shootert2d2
+Now his hp is 37
+i: 3
+It's now bers's turn.
+droid fighterr2d2 from team bers do action
+shootert2d2 was attacked by fighterr2d2
+Now his hp is 18
+i: 4
+It's now shoot's turn.
+droid shootert2d2 from team shoot do action
+fighterr2d2 was attacked by shootert2d2
+Now his hp is 24
+i: 5
+It's now bers's turn.
+droid fighterr2d2 from team bers do action
+shootert2d2 was attacked by fighterr2d2
+Now his hp is 7
+i: 6
+It's now shoot's turn.
+droid shootert2d2 from team shoot do action
+fighterr2d2 was attacked by shootert2d2
+Now his hp is 11
+i: 7
+It's now bers's turn.
+droid fighterr2d2 from team bers do action
+shootert2d2 was attacked by fighterr2d2
+Now his hp is 0
+team: bers victory!
+team: shoot defeated!
